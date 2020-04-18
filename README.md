@@ -53,4 +53,4 @@ https://al-quran-8d642.firebaseio.com/surat/1.json?print=pretty
 ]
 ```
 
-<a href="https://play.google.com/store/apps/details?id=com.bachors.alquran"><h2>DEMO</h2></a>
+<a href="https://play.google.com/store/apps/details?id=com.ggstudio.alquranid"><h2>DEMO</h2></a>
