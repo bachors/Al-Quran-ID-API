@@ -1,8 +1,9 @@
 # Al-Quran-ID-API
-Al-Quran API Terjemahan Indonesia Beserta Audio. Firebase.
+Al-Quran API Terjemahan Indonesia Beserta Audio. Firebase or Npoint.
 
 # List Surat
-https://al-quran-8d642.firebaseio.com/data.json?print=pretty
+Firebase: https://al-quran-8d642.firebaseio.com/data.json?print=pretty
+Npoint: https://www.npoint.io/docs/99c279bb173a6e28359c/data
 ```
 [ 
 	{
@@ -34,7 +35,8 @@ https://al-quran-8d642.firebaseio.com/data.json?print=pretty
 ```
 
 # List Ayat
-https://al-quran-8d642.firebaseio.com/surat/1.json?print=pretty
+Firebase: https://al-quran-8d642.firebaseio.com/surat/1.json?print=pretty
+Npoint: https://www.npoint.io/docs/99c279bb173a6e28359c/surat/1
 ```
 [ 
 	{
@@ -53,4 +55,4 @@ https://al-quran-8d642.firebaseio.com/surat/1.json?print=pretty
 ]
 ```
 
-<a href="https://play.google.com/store/apps/details?id=com.ggstudio.alquranid"><h2>DEMO</h2></a>
+
