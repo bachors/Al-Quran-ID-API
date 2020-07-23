@@ -1,6 +1,9 @@
 # Al-Quran-ID-API
 Al-Quran API Terjemahan Indonesia Beserta Audio. Firebase or Npoint.
 
+# NOTED
+"audio" : "http://..." replace with "https://..."
+
 # List Surat
 Firebase: https://al-quran-8d642.firebaseio.com/data.json?print=pretty<br>
 Npoint: https://api.npoint.io/99c279bb173a6e28359c/data
