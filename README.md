@@ -10,7 +10,7 @@ Npoint: https://api.npoint.io/99c279bb173a6e28359c/data
 ```
 [ 
 	{
-	  "arti" : "Pembukaan",
+	  "arti" : "ZAHID",
 	  "asma" : "الفاتحة",
 	  "audio" : "http://ia802609.us.archive.org/13/items/quraninindonesia/001AlFaatihah.mp3",
 	  "ayat" : 7,
