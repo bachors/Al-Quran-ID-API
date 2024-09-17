@@ -1,7 +1,12 @@
 # Al-Quran-ID-API
-Al-Quran API Terjemahan Indonesia Beserta Audio. Firebase or Npoint.
+Al-Quran API Terjemahan Indonesia Beserta Audio. Firebase, Npoint or Offline.
 
-# NOTED
+# OFFLINE
+Sekarang tersedia data versi offlinenya ditambah perbaikan di bagian link audio, dimana di versi onlinenya link audio belum diperbaiki.
+https://github.com/bachors/Al-Quran-ID-API/blob/master/offline/data.json
+
+# ONLINE
+NOTED
 "audio" : "http://..." replace with "https://..."
 
 # List Surat
@@ -57,5 +62,4 @@ Npoint: https://api.npoint.io/99c279bb173a6e28359c/surat/1
 	...
 ]
 ```
-
 
